@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "academic_year": "2026-2027",
+        "min_cgpa": 7.0,
+        "max_active_backlogs": 0,
+        "min_completed_credits": 140,
+        "authority": "Synthetic demonstration rules - not faculty approved",
+        "approval_status": "draft_demo"
+    }
+}

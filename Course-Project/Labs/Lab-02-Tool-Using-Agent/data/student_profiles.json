@@ -1,0 +1,74 @@
+
+{
+    "students": [
+        {
+            "student_id": "STU001",
+            "full_name": "Sangini Shee",
+            "branch": "Computer Science and Artificial Intelligence",
+            "cgpa": 8.4,
+            "active_backlogs": 0,
+            "completed_credits": 150,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "SQL",
+                "Data Analysis",
+                "TensorFlow"
+            ],
+            "academic_year": "2026-2027",
+            "semester": 8,
+            "data_status": "demo_only"
+        },
+        {
+            "student_id": "STU002",
+            "full_name": "K Sindhu",
+            "branch": "Computer Science and Artificial Intelligence",
+            "cgpa": 7.6,
+            "active_backlogs": 0,
+            "completed_credits": 145,
+            "skills": [
+                "Python",
+                "Java",
+                "Web Development",
+                "Database Management"
+            ],
+            "academic_year": "2026-2027",
+            "semester": 8,
+            "data_status": "demo_only"
+        },
+        {
+            "student_id": "STU003",
+            "full_name": "Chirag Hanamaratti",
+            "branch": "Computer Science and Artificial Intelligence",
+            "cgpa": 6.5,
+            "active_backlogs": 1,
+            "completed_credits": 130,
+            "skills": [
+                "Java",
+                "Python",
+                "C++",
+                "Cloud Computing"
+            ],
+            "academic_year": "2026-2027",
+            "semester": 8,
+            "data_status": "demo_only"
+        },
+        {
+            "student_id": "STU004",
+            "full_name": "Kshitij Heblikar",
+            "branch": "Computer Science and Artificial Intelligence",
+            "cgpa": 7.0,
+            "active_backlogs": 0,
+            "completed_credits": 140,
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "Data Structures"
+            ],
+            "academic_year": "2026-2027",
+            "semester": 8,
+            "data_status": "demo_only"
+        }
+    ]
+}

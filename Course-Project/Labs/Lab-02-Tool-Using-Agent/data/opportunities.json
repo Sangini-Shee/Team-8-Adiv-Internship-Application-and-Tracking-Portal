@@ -1,0 +1,51 @@
+
+{
+    "opportunities": [
+        {
+            "opportunity_id": "INT001",
+            "title": "AI and Machine Learning Intern",
+            "company": "DemoTech Solutions",
+            "domain": "Artificial Intelligence",
+            "eligible_branches": [
+                "Computer Science and Artificial Intelligence",
+                "Computer Science and Engineering"
+            ],
+            "required_skills": [
+                "Python",
+                "Machine Learning"
+            ],
+            "min_cgpa": 7.0,
+            "max_active_backlogs": 0,
+            "min_completed_credits": 140,
+            "work_mode": "Hybrid",
+            "duration_months": 3,
+            "posting_date": "2026-11-01",
+            "source": "Synthetic demonstration record",
+            "approval_status": "demo_only",
+            "is_verified": false
+        },
+        {
+            "opportunity_id": "INT002",
+            "title": "Software Development Intern",
+            "company": "Sample Innovations",
+            "domain": "Software Engineering",
+            "eligible_branches": [
+                "Computer Science and Engineering",
+                "Computer Science and Artificial Intelligence"
+            ],
+            "required_skills": [
+                "Java",
+                "Python"
+            ],
+            "min_cgpa": 6.0,
+            "max_active_backlogs": 1,
+            "min_completed_credits": 120,
+            "work_mode": "Remote",
+            "duration_months": 2,
+            "posting_date": "2026-11-05",
+            "source": "Synthetic demonstration record",
+            "approval_status": "demo_only",
+            "is_verified": false
+        }
+    ]
+}
