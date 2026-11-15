@@ -104,3 +104,36 @@ Automated tests were executed using Pytest.
 
 Test coverage includes clarification, planning, revision,
 input validation and output saving.
+
+
+## Streamlit Interface
+
+Lab 1 also provides a Streamlit-based Internship Opportunity
+Planner interface.
+
+### Features
+- Interactive student requirement input.
+- Gemini-powered clarification questions.
+- Internship application plan generation.
+- Editable application outline.
+- Feedback-based plan revision.
+- Markdown export.
+- JSON-based application record storage.
+
+### Run the Streamlit Application
+
+From the Lab 1 directory:
+
+    streamlit run streamlit_app.py
+
+The application opens in the browser.
+
+### Data Storage
+
+- Markdown application outlines are stored in `outputs/`.
+- Structured application records are stored in
+  `outputs/application_plans.json`.
+
+Generated JSON records are excluded from Git because they
+may contain personal student information.
+
