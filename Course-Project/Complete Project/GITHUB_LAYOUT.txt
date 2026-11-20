@@ -1,0 +1,23 @@
+# GitHub repository layout
+
+Keep the 14 lab submissions together in the existing `Labs/` (or `Assignments/`) folder.
+Keep the finished, standalone portal in a separate root-level `Course-Project/` folder.
+
+```text
+Team-8-Adiv-Internship-Application-and-Tracking-Portal/
+├── Labs/
+│   ├── Lab-01-Agent-vs-Chatbot/
+│   ├── ...
+│   └── Lab-14-Capstone/
+├── Course-Project/
+│   ├── app.py
+│   ├── db.py
+│   ├── integrations/
+│   ├── tests/
+│   └── ...
+└── README.md
+```
+
+`Course-Project/` contains only the complete Internship Application and Tracking Portal.
+It does not contain copies of Labs 1–13. Keep your existing lab folders; do not replace them
+with this standalone project package.
